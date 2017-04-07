@@ -1,0 +1,64 @@
+Training...
+
+EPOCH 1 ...
+Validation Accuracy = 0.879
+Time: 132.292 seconds
+
+EPOCH 2 ...
+Validation Accuracy = 0.923
+Time: 107.589 seconds
+
+EPOCH 3 ...
+Validation Accuracy = 0.935
+Time: 107.552 seconds
+
+EPOCH 4 ...
+Validation Accuracy = 0.947
+Time: 107.571 seconds
+
+EPOCH 5 ...
+Validation Accuracy = 0.959
+Time: 107.556 seconds
+
+EPOCH 6 ...
+Validation Accuracy = 0.956
+Time: 107.564 seconds
+
+EPOCH 7 ...
+Validation Accuracy = 0.961
+Time: 107.549 seconds
+
+EPOCH 8 ...
+Validation Accuracy = 0.963
+Time: 107.550 seconds
+
+EPOCH 9 ...
+Validation Accuracy = 0.969
+Time: 107.563 seconds
+
+EPOCH 10 ...
+Validation Accuracy = 0.970
+Time: 107.570 seconds
+
+EPOCH 11 ...
+Validation Accuracy = 0.971
+Time: 107.548 seconds
+
+EPOCH 12 ...
+Validation Accuracy = 0.973
+Time: 107.589 seconds
+
+EPOCH 13 ...
+Validation Accuracy = 0.971
+Time: 107.593 seconds
+
+EPOCH 14 ...
+Validation Accuracy = 0.974
+Time: 107.572 seconds
+
+EPOCH 15 ...
+Validation Accuracy = 0.974
+Time: 107.547 seconds
+
+Finished
+(carnd-term1) carnd@ip-172-31-28-77:~/CarND-Alexnet-Feature-Extraction-Lab$
